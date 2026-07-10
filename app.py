@@ -16,7 +16,7 @@ st.set_page_config(
 # -----------------------------
 # Load CNN Model
 # -----------------------------
-model = load_model("model/cnn_model.keras")
+model = load_model("cnn_model.keras")
 
 # -----------------------------
 # Sidebar
